@@ -3,9 +3,14 @@
 BY CECIL TAKUNDA MHIKE
 3 Phase Forward and Backward Motor Operation
 
+How to execute the Code
+_________________________________________________
+-Download the file and open it in the EKTS software
+-Start simulation and toggle inputs to see performance
+
 Nb. No sensors were used, its just the basic layout and operation
 principle investigation.
-
+___________________________________________________
 OPERATION
 FORWARD OPERATION
 
