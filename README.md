@@ -5,7 +5,7 @@ BY CECIL TAKUNDA MHIKE
 
 How to execute the Code
 _________________________________________________
--Download the file and open it in the EKTS software
+-Download the "Direct Drive and FW_BW Drive Motor.esc" file and open it in the EKTS software
 -Start simulation and toggle inputs to see performance
 
 Nb. No sensors were used, its just the basic layout and operation
